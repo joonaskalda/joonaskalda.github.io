@@ -4,17 +4,11 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
-
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Hi, I am Joonas Kalda, a recent graduate from the University of Cambridge mathematics master's program. I enjoy experimenting with machine learning.
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Say `Hello` at [joonas.kalda@gmail.com](joonas.kalda@gmail.com).
 
 
 [tf]: http://template-factory.nl
